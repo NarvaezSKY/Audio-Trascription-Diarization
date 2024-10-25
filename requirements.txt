@@ -1,0 +1,4 @@
+flask
+pyannote.audio
+yt-dlp[default]
+git+https://github.com/openai/whisper.git
