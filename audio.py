@@ -6,7 +6,7 @@ from pyannote.audio import Pipeline
 whisper_model = whisper.load_model('base.en')
 diarization_pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization", 
-    use_auth_token="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"
+    use_auth_token="[YOUR TOKEN HERE]"
 )
 
 app = Flask(__name__)
