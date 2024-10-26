@@ -4,3 +4,5 @@ This project processes audio files by performing speaker diarization using PyAnn
 You can create a venv and run this command to install all the necessary dependencies: pip install -r requirements.txt
 
 API endpoint: /transcribe
+
+(Please run Visual Studio Code as administrator for the project to work properly)
